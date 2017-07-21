@@ -1,5 +1,5 @@
 wifi (0.3.8-1) UNRELEASED; urgency=medium
 
-  * Initial Debian packaging
+  * Initial Debian packaging (closes: #869109)
 
  -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 14:53:40 -0500
